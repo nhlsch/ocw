@@ -1,0 +1,20 @@
+{
+  "course_title":"Econometrics",
+  "course_description":"Introduction to econometric models and techniques, simultaneous equations, program evaluation, emphasizing regression. Advanced topics include instrumental variables, panel data methods, measurement error, and limited dependent variable models. May not count toward HASS requirement.\n",
+  "site_uid":"d3efbbb1-fa70-4c33-a8a9-fd8bf048c3fb",
+  "legacy_uid":"a0def3fc-0b39-645e-1f13-99cdffd50ddb","instructors": [{
+    "first_name":"Joshua",
+    "last_name":"Angrist",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Joshua Angrist"}],"department_numbers":["14"],
+  "learning_resource_types":["Problem Sets"],
+  "topics":[["Social Science","Economics","Econometrics"],["Mathematics","Probability and Statistics"]],
+  "primary_course_number":"14.32",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2007",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/d1c7acfec893edd815a26f6cb05748e6_14-32s07.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"General bill of burials by parish clerks of London, 1665. For a larger version, see Epidemic Disease in London.","draft":false,"file":"/courses/14-32-econometrics-spring-2007/d1c7acfec893edd815a26f6cb05748e6_14-32s07.jpg","file_size":133724,"file_type":"image/jpeg","image_metadata":{"caption":"General bill of burials by parish clerks of London, 1665. For a larger version, see [Epidemic Disease in London](http://www.history.ac.uk/ihr/Focus/Medical/epichamp.html#6).","credit":"","image-alt":"General bill of burials by parish clerks of London, 1665."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"14-32s07.jpg","uid":"d1c7acfe-c893-edd8-15a2-6f6cb05748e6"}}
+

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recitations on MIT OpenCourseWare</title>
+    <link>/resources/recitations/</link>
+    <description>Recent content in Recitations on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/recitations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rec_4_13.pdf</title>
+      <link>/resources/rec_4_13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec_4_13/data.json</guid>
+      <description>This resource contains recitation notes on differences-in-differences.</description>
+    </item>
+    
+    <item>
+      <title>rec_4_20.pdf</title>
+      <link>/resources/rec_4_20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec_4_20/data.json</guid>
+      <description>This resource contains recitation notes on FGLS and testing for Heteroskedasticity.</description>
+    </item>
+    
+    <item>
+      <title>rec_4_27.pdf</title>
+      <link>/resources/rec_4_27/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec_4_27/data.json</guid>
+      <description>This resource contains recitation notes on serial correlation.</description>
+    </item>
+    
+    <item>
+      <title>rec_5_11.pdf</title>
+      <link>/resources/rec_5_11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec_5_11/data.json</guid>
+      <description>This resource contains recitation notes on 2SLS and simultaneous equations.</description>
+    </item>
+    
+    <item>
+      <title>rec_5_4.pdf</title>
+      <link>/resources/rec_5_4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec_5_4/data.json</guid>
+      <description>This resource contains recitation notes on implementation of IV and two-stage least squares.</description>
+    </item>
+    
+    <item>
+      <title>Recitations</title>
+      <link>/pages/recitations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/recitations/data.json</guid>
+      <description>These recitation notes are courtesy of Jim Berry. Used with permission.
+More on Differences-in-Differences (PDF)
+More on FGLS and How to Test for Heteroskedasticity (PDF)
+Serial Correlation (PDF)
+Implementation of IV and Two-stage Least Squares (PDF)
+Additional Notes on 2SLS and Simultaneous Equations (PDF)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+{
+  "course_title":"Intermediate Microeconomic Theory ",
+  "course_description":"This course provides an introduction to theory and data designed to meet the needs of students interested in economic science. It provides an introduction to consumer choice, the theory of the firm, and general equilibrium models, with an overview of the main results and tools used in studying these topics, both directly in economics and indirectly in various other fields.",
+  "site_uid":"627bf0af-c70d-4173-ab8c-33b6e2268999",
+  "legacy_uid":"","instructors": [{
+    "first_name":"Robert",
+    "last_name":"Townsend",
+    "middle_initial":"M.",
+    "salutation":"Prof.",
+    "title":"Prof. Robert M. Townsend"}],"department_numbers":["14"],
+  "learning_resource_types":["Exams with Solutions","Lecture Videos","Readings","Problem Sets"],
+  "topics":[["Social Science","Economics","Microeconomics"]],
+  "primary_course_number":"14.04",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2020",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/14-04f20.jpg",
+  "course_image_metadata":{"body":"","content_type":"resource","draft":false,"file":"/courses/14-04-intermediate-microeconomic-theory-fall-2020/14-04f20.jpg","file_size":97374,"file_type":"image/jpeg","image_metadata":{"caption":"A neighborhood grocery store in Orem, Utah. Consumer decision-making is one of the topics covered in this course. (Image by [arbyreed](https://www.flickr.com/photos/19779889@N00/28347664145/) on flickr. License: CC BY-NC-SA)","credit":"(Image by arbyreed on flickr. License: CC BY-NC-SA)","image-alt":"A photo taken at the end of of grocery store aisles, showing countless products displayed on the shelves. "},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","resourcetype":"Image","title":"14-04f20.jpg","uid":"1ba9752f-5b57-4b7f-ac59-956a23c72750","video_files":{"video_captions_file":"","video_thumbnail_file":"","video_transcript_file":""},"video_metadata":{"video_speakers":"","video_tags":"","youtube_description":"","youtube_id":""}}}
+

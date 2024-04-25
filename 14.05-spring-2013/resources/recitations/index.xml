@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recitations on MIT OpenCourseWare</title>
+    <link>/resources/recitations/</link>
+    <description>Recent content in Recitations on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/recitations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Final review</title>
+      <link>/resources/mit14_05s13_revi_for_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_revi_for_final/data.json</guid>
+      <description>This file contains information regarding final review.</description>
+    </item>
+    
+    <item>
+      <title>Midterm practice questions</title>
+      <link>/resources/mit14_05s13_practquestion/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_practquestion/data.json</guid>
+      <description>This file contains information regarding midterm practice questions.</description>
+    </item>
+    
+    <item>
+      <title>Midterm review</title>
+      <link>/resources/mit14_05s13_midterm_revi/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_midterm_revi/data.json</guid>
+      <description>This file contains information regarding midterm review.</description>
+    </item>
+    
+    <item>
+      <title>Ramsey problem notes</title>
+      <link>/resources/mit14_05s13_rec_ram_prob/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_rec_ram_prob/data.json</guid>
+      <description>This file contains information regarding ramsey problem.</description>
+    </item>
+    
+    <item>
+      <title>Recitations</title>
+      <link>/pages/recitations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/recitations/data.json</guid>
+      <description>Review notes courtesy of Sebastian Di Tella. Used with permission.
+Ramsey problem (PDF)
+Midterm review (PDF)
+Midterm practice questions (PDF)
+Final review (PDF)</description>
+    </item>
+    
+  </channel>
+</rss>

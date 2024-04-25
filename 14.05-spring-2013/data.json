@@ -1,0 +1,20 @@
+{
+  "course_title":"Intermediate Macroeconomics",
+  "course_description":"This course uses the tools of macroeconomics to study various macroeconomic policy problems in-depth. The problems range from economic growth in the long run, to government finances in the intermediate run, and economic stability in the short run. Many economic models used today are surveyed.\n",
+  "site_uid":"300e767a-9d6c-4c95-b2ef-a3f0db31c278",
+  "legacy_uid":"07e735ea-648b-bc61-97b8-a48142c91a43","instructors": [{
+    "first_name":"George-Marios",
+    "last_name":"Angeletos",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. George-Marios Angeletos"}],"department_numbers":["14"],
+  "learning_resource_types":["Problem Sets","Exams","Lecture Notes","Instructor Insights"],
+  "topics":[["Social Science","Economics","Macroeconomics"]],
+  "primary_course_number":"14.05",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2013",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/c9cb05a46301f892adf8931fa52a00e4_14-05s13.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"The National Debt Clock, located in Manhattan, constantly updates to show the current gross national debt of the United States. This photograph was taken in 2007. Image courtesy of Ben on Flickr. CC BY-NC-SA.","draft":false,"file":"/courses/14-05-intermediate-macroeconomics-spring-2013/c9cb05a46301f892adf8931fa52a00e4_14-05s13.jpg","file_size":66218,"file_type":"image/jpeg","image_metadata":{"caption":"The National Debt Clock, located in Manhattan, constantly updates to show the current gross national debt of the United States. This photograph was taken in 2007. (Image courtesy of [Ben](http://www.flickr.com/photos/peregrinari/1662689766/) on Flickr. CC BY-NC-SA.)","credit":"Image courtesy of Ben on Flickr. CC BY-NC-SA.","image-alt":"A photograph of a billboard sized electronic clock on a brick wall that displays the national debt of the United States."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"14-05s13.jpg","uid":"c9cb05a4-6301-f892-adf8-931fa52a00e4"}}
+

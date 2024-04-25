@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>Problem Sets Solutions are not available for the problem sets.
+Problem set 1 (PDF)
+Problem set 2 (PDF); Problem set 2 Data
+Problem set 3 (PDF)
+Problem set 4 (PDF)
+Problem set 5 (PDF)
+Paper Paper guidelines (PDF)
+Exemplary Student Work &amp;ldquo;The Effect of Anti-Gang Measures on Wealth in Central American Countries.&amp;rdquo; (PDF - 1.3MB) (Courtesy of an MIT student. Used with permission.)
+&amp;ldquo;Schooling Levels and the Growth of the Four Asian Tigers.</description>
+    </item>
+    
+    <item>
+      <title>MIT14_05S13_pset2_data.xlsx</title>
+      <link>/resources/mit14_05s13_pset2_data/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_pset2_data/data.json</guid>
+      <description>This file contains information regarding problem set 2 data.</description>
+    </item>
+    
+    <item>
+      <title>Paper guidelines</title>
+      <link>/resources/mit14_05s13_guidelines/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_guidelines/data.json</guid>
+      <description>This file contains information regarding paper guidelines.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 1</title>
+      <link>/resources/mit14_05s13_pset1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_pset1/data.json</guid>
+      <description>This file contains information regarding problem set 1.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 1</title>
+      <link>/resources/mit14_05s13_pset5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_pset5/data.json</guid>
+      <description>This file contains information regarding problem set 5.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 2</title>
+      <link>/resources/mit14_05s13_pset2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_pset2/data.json</guid>
+      <description>This file contains information regarding problem set 2.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 3</title>
+      <link>/resources/mit14_05s13_pset3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_pset3/data.json</guid>
+      <description>This file contains information regarding problem set 3.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 4</title>
+      <link>/resources/mit14_05s13_pset4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_pset4/data.json</guid>
+      <description>This file contains information regarding problem set 4.</description>
+    </item>
+    
+    <item>
+      <title>Schooling Levels and the Growth of the Four Asian Tigers</title>
+      <link>/resources/mit14_05s13_tigers/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_tigers/data.json</guid>
+      <description>This file contains information regarding schooling levels and the growth of the four asian tigers.</description>
+    </item>
+    
+    <item>
+      <title>The Effect of Anti-Gang Measures on Wealth in Central American Countries</title>
+      <link>/resources/mit14_05s13_antigang/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_antigang/data.json</guid>
+      <description>This file contains information regarding the effect of anti-gang measures on wealth in central american countries.</description>
+    </item>
+    
+    <item>
+      <title>The Effect of Healthcare Regulation on National Output: Evidence using a Cross-Country Growth Analysis</title>
+      <link>/resources/mit14_05s13_healthcare/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_healthcare/data.json</guid>
+      <description>This resource contains information regarding the effect of healthcare regulation on national output: evidence using a cross-country growth analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

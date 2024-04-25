@@ -1,0 +1,79 @@
+
+{ 
+  "title":"Video Lectures",
+  "description":"", 
+  "videos": [{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture01_2020sep01_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture02_2020sep03_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture03_2020sep08_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture04_2020sep10_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture05_2020sep15_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture06_2020sep17_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture07_2020sep22_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_review_2020sep24_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture08_2020oct01_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture09_2020oct06_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture10_2020oct08_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture11_2020oct15_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture12_2020oct20_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture13_2020oct22_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture14_2020oct27_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture15_2020oct29_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_midtermreview_2020nov03_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture16_2020nov10_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture17_2020nov12_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture18_2020nov17_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture19_2020nov19_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture20_2020dec01_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture21_2020dec03_360p_16_9.mp4"
+        },{
+          "description": null,
+          "file": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_finalreview_2020dec08_360p_16_9.mp4"
+        }]}
+
+

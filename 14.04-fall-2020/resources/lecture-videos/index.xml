@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exam #1 Review for Intermediate Microeconomic Theory</title>
+      <link>/resources/ocw_1404_review_2020sep24/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_review_2020sep24/data.json</guid>
+      <description>Prof. Townsend reviews the content from the first seven sessions to help students prepare for the first exam.</description>
+    </item>
+    
+    <item>
+      <title>Exam #2 Review for Intermediate Microeconomic Theory</title>
+      <link>/resources/ocw_1404_midtermreview_2020nov03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_midtermreview_2020nov03/data.json</guid>
+      <description>Prof. Townsend reviews content from lectures 8-15 to help students prepare for the midterm exam.</description>
+    </item>
+    
+    <item>
+      <title>Final Exam Review for Intermediate Microeconomic Theory</title>
+      <link>/resources/ocw_1404_finalreview_2020dec08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_finalreview_2020dec08/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture 1: Economic Science</title>
+      <link>/resources/ocw_1404_lecture01_2020sep01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture01_2020sep01/data.json</guid>
+      <description>Professor Townsend presents economies that are striking in their organization, pinpoints key elements, draws a parallel between village economies and crypto currencies, and defines the what, how, and why of the science of economics. A course outline is provided.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 10: Ledgers and Management</title>
+      <link>/resources/ocw_1404_lecture10_2020oct08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture10_2020oct08/data.json</guid>
+      <description>Finance accounts and management tools are keys to understanding village economies and to helping individual households and small businesses. Likewise, distributed ledgers and crypto currencies are keys to decentralized finance (DeFi), and are tools to improve contemporary financial systems. Remarkably, both of these two strands have the same, common root.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 11: Contracts and Mechanism Design</title>
+      <link>/resources/ocw_1404_lecture11_2020oct15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture11_2020oct15/data.json</guid>
+      <description>What exactly are smart contracts? The theory of mechanism design and the protocols for validation of decentralized ledgers are compared. Trust means different things to different people. Yet economics and computer science can come together. The tools of incentive compatibility, encryption, platforms, and programmability are explained and featured in key applications.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 12: Contract Application, Obstacles</title>
+      <link>/resources/ocw_1404_lecture12_2020oct20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture12_2020oct20/data.json</guid>
+      <description>Small and medium enterprises (SMEs) are the backbone of many economies. Yet they appear to be constrained in their operations. This lecture answers the key questions of how to uncover the underlying obstacles to trade and then use that to guide policy improvements.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 14: Real and Financial Flows: Thailand</title>
+      <link>/resources/ocw_1404_lecture14_2020oct27/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture14_2020oct27/data.json</guid>
+      <description>Villages and towns are like small open economies within a nation, yet the SMEs within them are heterogeneous in wealth and productivity. They are also typically constrained. Thus, opening the economy up to increased trade and to capital flows can produce surprisingly large welfare gains and losses, even for those living within the very same village.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 15: Data and Policy in the United States</title>
+      <link>/resources/ocw_1404_lecture15_2020oct29/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture15_2020oct29/data.json</guid>
+      <description>In the US, the China shock refers to increased imports from China of relatively low-priced manufactured goods. This has an impact that varies locally, namely on US manufacturers who produce the same goods and cannot complete. Documented also is the adverse impact on wage labor, due to layoffs. But there are surprises for outcomes and mitigating mechanisms, previously undocumented movements in state-level trade balances, current accounts, and remittance flows.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 16: Fundamental Welfare Theorems</title>
+      <link>/resources/ocw_1404_lecture16_2020nov10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture16_2020nov10/data.json</guid>
+      <description>An equilibrium with competitive markets implies a particular distribution of income, which some may not like. Nevertheless, there is a way to get to any Pareto efficient allocation if in addition to markets we allow lump sum transfers of wealth. Markets per se are not the problem.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 17: Existence of Equilibria</title>
+      <link>/resources/ocw_1404_lecture17_2020nov12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture17_2020nov12/data.json</guid>
+      <description>Do competitive markets always function well? Existence of a competitive equilibrium is not to be taken for granted. How can computer science contribute in computation? What if participants are few in number and act strategically? What does it mean for a trade to fail and why does this happen? What is the ex ante optimal design of market structures needed to support competitive outcomes?</description>
+    </item>
+    
+    <item>
+      <title>Lecture 18: Aggregation</title>
+      <link>/resources/ocw_1404_lecture18_2020nov17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture18_2020nov17/data.json</guid>
+      <description>Micro and macro are often presented as two separate subfields of economics. When can they be reconciled with each other so that we can utilize the tools from both for economic science and to make statements about the welfare impacts of policy changes? When in the data might macro approximations be valid, and what are the indicators of micro foundations that must be made explicit and incorporated?</description>
+    </item>
+    
+    <item>
+      <title>Lecture 19: Identification and Falsification</title>
+      <link>/resources/ocw_1404_lecture19_2020nov19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture19_2020nov19/data.json</guid>
+      <description>A theory which can always be made consistent with data has no content. A good theory is one which can be rejected. Algorithms can be used with data to show when consumer choice is irrational. Despite the notion that “anything goes” in general equilibrium theory, recent work shows what data are sufficient to allow rejection.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2: Consumer Choice</title>
+      <link>/resources/ocw_1404_lecture02_2020sep03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture02_2020sep03/data.json</guid>
+      <description>How should rational consumers decide what to buy? Economists break the problem down into its component parts: feasible available commodity bundles, preferences over goods and services, and budget constraints.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 20: Failure of Welfare Theorems</title>
+      <link>/resources/ocw_1404_lecture20_2020dec01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture20_2020dec01/data.json</guid>
+      <description>When there is pollution, missing markets, externalities in caring about the outcomes for other people (jealousy or altruism), or an infinite number of agents from overlapping generations of finite-lived agents, then the equivalence between the class of competitive equilibria with transfers and the set of Pareto optimal allocations can be broken. But likewise, the link can be restored with markets in rights and appropriate market design.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 21: Bubbles</title>
+      <link>/resources/ocw_1404_lecture21_2020dec03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture21_2020dec03/data.json</guid>
+      <description>What, if ever, is the role for bubbles? What to make of the recent experience in crypto currencies? Is central bank issued fiat money just a bubble? Can privately issued digital assets play a role as media of exchange? Can fiat money disappear?</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Income and Substitution Effects</title>
+      <link>/resources/ocw_1404_lecture03_2020sep08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture03_2020sep08/data.json</guid>
+      <description>This lecture shows how to make predictions about the impact of price and income changes on households, and whether household welfare improves or deteriorates.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4: Production and Profit Maximization</title>
+      <link>/resources/ocw_1404_lecture04_2020sep10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture04_2020sep10/data.json</guid>
+      <description>How do profit maximizing firms decide on the level of employment, and on their input/output mix more generally? The problem is broken down into its component parts: feasible production technology, and the prices of inputs and outputs. Predictions are made for individual firms’ responses to domestic price changes with implications for profits. Surprisingly, the same constructs can be used for economy-wide responses to international tariffs, with implications for household welfare.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5: Uncertainty and Linear Programs</title>
+      <link>/resources/ocw_1404_lecture05_2020sep15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture05_2020sep15/data.json</guid>
+      <description>Farmers in medieval villages faced the risk of starvation and took great pains to diversify that risk as best they could, farming long narrow strips of land. There were also gains from pooling risk across distant villages. Surprisingly, such problems can be formalized with lotteries. Linear program problems capture this and a wide variety of applications.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6:  Dynamics and Programming</title>
+      <link>/resources/ocw_1404_lecture06_2020sep17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture06_2020sep17/data.json</guid>
+      <description>English villagers were able to store their harvest in inventory. Yet, despite facing starvation from future crop failure, they rarely stored enough to get beyond the following year. Dynamic economic models of decision-making, calibrating parameters from historical data, resolve the puzzle. The power of dynamic programming is revealed, along with some additional useful tools.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7: Pareto Optimality</title>
+      <link>/resources/ocw_1404_lecture07_2020sep22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture07_2020sep22/data.json</guid>
+      <description>How do we divide the social pie of the available resources in an economy across its household members? Economists have a way of figuring out what allocations of consumption bundles are efficient, or what allocations are not. Crucially, this is different from taking a stand on the appropriate distribution of income. Confusion on this subject, equity vs. efficiency, abounds in the popular press. An application is discussed: the Pareto optimal allocation of risk implemented with risk sharing rules—who gets what when there are adverse shocks.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8: Risk-Sharing Application</title>
+      <link>/resources/ocw_1404_lecture08_2020oct01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture08_2020oct01/data.json</guid>
+      <description>Village India is home to extreme poverty and enormous risks, including those that can affect one household but not others due to specialization in income sources, crops, and soil. Yet households in village India come close to an optimal allocation of risk bearing, achieved apparently through ex post borrowing/lending and gifts/transfers. In the medieval village, a primary mechanism was ex ante division of land, though portfolio diversification was imperfect.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9: Risk-Sharing with Production</title>
+      <link>/resources/ocw_1404_lecture09_2020oct06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocw_1404_lecture09_2020oct06/data.json</guid>
+      <description>In modern economies with financial markets, a good stock is one that hedges aggregate risk, having high return when the rest of the market does poorly, on average. A stock which in contrast co-moves with the market bears a risk premium, to compensate for its failure to hedge market risk. In Thai village economies, no stocks are traded, and yet amazingly, the returns on real capital assets, from running small business and farms, are consistent with the theory.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calendar and Readings</title>
+      <link>/pages/calendar-and-readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/calendar-and-readings/data.json</guid>
+      <description>Textbook [Barro] = Barro, Robert. Intermediate Macroeconomics. 1st ed. Cengage Learning, 2010. ISBN: 9781111486587. [Preview with Google Books]
+SES # TOPICS READINGS 1 Introduction [Barro] Chapters 1, and 2. 2 The Solow Model: An Introduction to Macroeconomic Modeling and Economic Growth [Barro] Chapters 3, 4, and 5.
+Solow, Robert M. &amp;ldquo;A Contribution to the Theory of Economic Growth.&amp;rdquo; The Quarterly Journal of Economics 70, no. 1 (1956): 65–94.
+Mankiw, N.</description>
+    </item>
+    
+  </channel>
+</rss>

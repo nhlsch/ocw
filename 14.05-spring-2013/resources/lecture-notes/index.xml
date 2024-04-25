@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consumption and Saving</title>
+      <link>/resources/mit14_05s13_lecnot_consu/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_lecnot_consu/data.json</guid>
+      <description>This file contains information regarding consumption and saving.</description>
+    </item>
+    
+    <item>
+      <title>Crises and Multiple Equilibria</title>
+      <link>/resources/mit14_05s13_lecnot_crises/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_lecnot_crises/data.json</guid>
+      <description>This file contains information regarding crises and multiple equilibria.</description>
+    </item>
+    
+    <item>
+      <title>Endogenous Growth</title>
+      <link>/resources/mit14_05s13_lecnot_end-gro/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_lecnot_end-gro/data.json</guid>
+      <description>This file contains information regarding endogenous growth.</description>
+    </item>
+    
+    <item>
+      <title>Fairness and Redistribution</title>
+      <link>/resources/mit14_05s13_lecnot_fairnes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_lecnot_fairnes/data.json</guid>
+      <description>This file contains information regarding fairness and redistribution.</description>
+    </item>
+    
+    <item>
+      <title>Introduction and the Solow Model</title>
+      <link>/resources/mit14_05s13_lecnot_bar-gor/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_lecnot_bar-gor/data.json</guid>
+      <description>This file contains information regarding inflation traps, and rules vs. discretion.</description>
+    </item>
+    
+    <item>
+      <title>Introduction and the Solow Model</title>
+      <link>/resources/mit14_05s13_lecnot_int_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_lecnot_int_sol/data.json</guid>
+      <description>This file contains information regarding introduction and the solow model.</description>
+    </item>
+    
+    <item>
+      <title>Labor Supply</title>
+      <link>/resources/mit14_05s13_lecnot_labsupp/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_lecnot_labsupp/data.json</guid>
+      <description>This file contains information regarding labor supply.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Lecture notes aren&amp;rsquo;t available for all sessions.
+SES # TOPICS FILES 1–2 Introduction
+The Solow Model
+Introduction and the Solow Model (PDF) 3 Consumption and Saving Consumption and Saving (PDF) 4 Labor Supply Labor Supply (PDF) 5 The Neoclassical Growth Model (aka Ramsey Model) The Neoclassical Growth Model (PDF) 7 Endogenous Growth Endogenous Growth (PDF) 8 Fiscal Policy: Taxation, Public Debt, and Redistribution Ricardian Equivalence (PDF)
+Redistribution As Optimal Social Insurance (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Redistribution As Optimal Social Insurance</title>
+      <link>/resources/mit14_05s13_lecnot_redistr/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_lecnot_redistr/data.json</guid>
+      <description>This file contains information regarding redistribution as optimal social insurance.</description>
+    </item>
+    
+    <item>
+      <title>Ricardian Equivalence</title>
+      <link>/resources/mit14_05s13_lecnot_ricard/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_lecnot_ricard/data.json</guid>
+      <description>This file contains information regarding ricardian equivalence.</description>
+    </item>
+    
+    <item>
+      <title>The Neoclassical Growth Model</title>
+      <link>/resources/mit14_05s13_lecnot_ramsey/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_05s13_lecnot_ramsey/data.json</guid>
+      <description>This file contains information regarding the neoclassical growth model.</description>
+    </item>
+    
+  </channel>
+</rss>
