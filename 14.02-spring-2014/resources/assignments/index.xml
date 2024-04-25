@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14.02 Spring 2014 Problem Set 1</title>
+      <link>/resources/mit14_02s14_pset1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_02s14_pset1/data.json</guid>
+      <description>This resource contains information regarding problem set 1.</description>
+    </item>
+    
+    <item>
+      <title>14.02 Spring 2014 Problem Set 1 Solutions</title>
+      <link>/resources/mit14_02s14_pset1_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_02s14_pset1_sols/data.json</guid>
+      <description>This resource contains information regarding problem set 1 solution.</description>
+    </item>
+    
+    <item>
+      <title>14.02 Spring 2014 Problem Set 2</title>
+      <link>/resources/mit14_02s14_pset2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_02s14_pset2/data.json</guid>
+      <description>This resource contains information regarding problem set 2.</description>
+    </item>
+    
+    <item>
+      <title>14.02 Spring 2014 Problem Set 2 Solutions</title>
+      <link>/resources/mit14_02s14_pset2_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_02s14_pset2_sols/data.json</guid>
+      <description>This resource contains information regarding problem set 2 solution.</description>
+    </item>
+    
+    <item>
+      <title>14.02 Spring 2014 Problem Set 3</title>
+      <link>/resources/mit14_02s14_pset3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_02s14_pset3/data.json</guid>
+      <description>This resource contains information regarding problem set 3.</description>
+    </item>
+    
+    <item>
+      <title>14.02 Spring 2014 Problem Set 3 Solutions</title>
+      <link>/resources/mit14_02s14_pset3_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_02s14_pset3_sols/data.json</guid>
+      <description>This resource contains information regarding problem set 3 solution.</description>
+    </item>
+    
+    <item>
+      <title>14.02 Spring 2014 Problem Set 4</title>
+      <link>/resources/mit14_02s14_pset4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_02s14_pset4/data.json</guid>
+      <description>This resource contains information regarding problem set 4.</description>
+    </item>
+    
+    <item>
+      <title>14.02 Spring 2014 Problem Set 4 Solutions</title>
+      <link>/resources/mit14_02s14_pset4_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_02s14_pset4_sols/data.json</guid>
+      <description>This resource contains information regarding problem set 4 solution.</description>
+    </item>
+    
+    <item>
+      <title>14.02 Spring 2014 Problem Set 5</title>
+      <link>/resources/mit14_02s14_pset5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_02s14_pset5/data.json</guid>
+      <description>This resource contains information regarding problem set 5.</description>
+    </item>
+    
+    <item>
+      <title>14.02 Spring 2014 Problem Set 5 Solutions</title>
+      <link>/resources/mit14_02s14_pset5_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_02s14_pset5_sols/data.json</guid>
+      <description>This resource contains information regarding problem set 5 solution.</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description> PROBLEM SETS SOLUTIONS Due date Problem set 1 (PDF) Problem set 1 solutions (PDF) Due recitation 3 Problem set 2 (PDF) Problem set 2 solutions (PDF) Due recitation 5 Problem set 3 (PDF) Problem set 3 solutions (PDF) Due recitation 7 Problem set 4 (PDF) Problem set 4 solutions (PDF) Due lecture 20 Problem set 5 (PDF) Problem set 5 solutions (PDF) Due lecture 23 </description>
+    </item>
+    
+  </channel>
+</rss>

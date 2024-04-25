@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calendar and Readings</title>
+      <link>/pages/calendar-and-readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/calendar-and-readings/data.json</guid>
+      <description>For the first seven lectures, the students used the professor&amp;rsquo;s lecture notes as their text. Please also see the additional readings below the table. [Macro] = Blanchard, Olivier, and David R. Johnson. Macroeconomics. 6th ed. Pearson, 2012. ISBN: 9780133061635.
+L = Lecture session
+R = Recitation session
+SES # TOPICS READINGS KEY DATES L1 Models of the financial crisis: Leverage No readings R1 Balance sheets and leverage No readings L2 Models of the financial crisis: Holmstrom-Tirole I No readings L3 Models of the financial crisis: Holmstrom-Tirole II No readings R2 Holmstrom-Tirole model No readings Pset 1 posted (leverage, Holstrom-Tirole, Diamond-Dybvig) L4 Models of the financial crisis: Diamond-Dybvig I No readings L5 Models of the financial crisis: Diamond-Dybvig II No readings R3 Diamond-Dybvig model No readings Pset 1 due L6 Models of the financial crisis: Tirole No readings L7 Models of the financial crisis: Kiyotaki-Moore No readings R4 Kiyotaki-Moore model No readings Pset 2 posted (Kiyotaki-Moore and IS-LM) L8 Core: National accounts [Macro] Chapters 1 and 2.</description>
+    </item>
+    
+  </channel>
+</rss>

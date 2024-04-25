@@ -1,0 +1,20 @@
+{
+  "course_title":"Principles of Macroeconomics",
+  "course_description":"This course provides an overview of macroeconomic issues: the determination of output, employment, unemployment, interest rates, and inflation. Monetary and fiscal policies are discussed. Important policy debates such as, the sub-prime crisis, social security, the public debt, and international economic issues are critically explored. The course introduces basic models of macroeconomics and illustrates principles with the experience of the U.S. and foreign economies.\n",
+  "site_uid":"483feb56-ffb1-484f-a342-eb4aa7f78f86",
+  "legacy_uid":"3a32661c-bb5b-c1b4-04ed-0fad6b238e49","instructors": [{
+    "first_name":"Francesco",
+    "last_name":"Giavazzi",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Francesco Giavazzi"}],"department_numbers":["14"],
+  "learning_resource_types":["Problem Sets with Solutions","Exams with Solutions","Lecture Notes"],
+  "topics":[["Social Science","Economics","Macroeconomics"],["Social Science","Economics","Political Economy"],["Social Science","Economics","Public Economics"]],
+  "primary_course_number":"14.02",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2014",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/d9898d80cc67fa0d3ec71c1b621c734b_14-02s14.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"A bank vault at Washington Trust Company in Pittsburgh, Pennsylvania. Image courtesy of Brook Ward. CC BY-NC.","draft":false,"file":"/courses/14-02-principles-of-macroeconomics-spring-2014/d9898d80cc67fa0d3ec71c1b621c734b_14-02s14.jpg","file_size":73422,"file_type":"image/jpeg","image_metadata":{"caption":"A bank vault at Washington Trust Company in Pittsburgh, Pennsylvania. (Image courtesy of Brook Ward. CC BY-NC.)","credit":"Image courtesy of Brook Ward. CC BY-NC.","image-alt":"The opening of a bank vault that has metal bars surrounded by a metal circle."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"14-02s14.jpg","uid":"d9898d80-cc67-fa0d-3ec7-1c1b621c734b"}}
+
